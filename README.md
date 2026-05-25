@@ -1,2 +1,2 @@
-# Assignment-1
+Code Alpha -Task
 Image Gallery 
